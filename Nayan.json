@@ -7,7 +7,7 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "MILAD-BOT",
   "PREFIX": "/",
   "OPERATOR": [
     "100014896964436",
@@ -15,7 +15,7 @@
   ],
   "ADMINBOT": [
     "100000959749712",
-    ""
+    "100093319666148"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
